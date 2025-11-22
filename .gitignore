@@ -1,4 +1,6 @@
 .venv
 .env
+__init.py__
 
-**/__pycache__/
+# Byte-compiled / optimized / DLL files
+__pycache__/
